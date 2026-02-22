@@ -20,4 +20,4 @@ java FinalFlexibleLuceneSearchEngine indexDir dataDir  <br>
  indexDir : Directory to store the index <br>
 dataDir : Directory containing the text files to be indexed
 
-Demo commit at 3:48pm
+Demo commit at 3:49pm
