@@ -19,3 +19,5 @@ To run the search engine, use the following command: <br>
 java FinalFlexibleLuceneSearchEngine indexDir dataDir  <br>
  indexDir : Directory to store the index <br>
 dataDir : Directory containing the text files to be indexed
+
+Demo commit at 3:45pm
